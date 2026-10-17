@@ -2,7 +2,7 @@
 
 **An AI-assisted tabletop RPG concept where exploration, invention, and technical reasoning become part of the adventure.**
 
-![Adventurers exploring U.I. Worlds](images/ui-worlds-cover.png)
+![Adventurers exploring U.I. Worlds](Skybridge%20to%20the%20lost%20mountain%20city-1.png)
 
 **Current release: v0.3 tabletop playtest candidate.** The rules and opening scene are written; example calculations have been desk-checked. Human playtesting and software implementation are still ahead. Companion permissions and automatic saving are design requirements.
 
@@ -38,7 +38,7 @@ A **Story / Workshop / Lab** dial changes how much technical detail players see.
 
 - [Quickstart: run The Broken Skybridge](docs/QUICKSTART.md)
 - [Complete v0.3 rules, scene, calculations, familiar architecture, Court decisions, and sources](docs/UI-Worlds-Playtest-v0.3.md)
-- [Artwork gallery: all seven images and their context](docs/ARTWORK.md)
+- [Artwork gallery: four selected images](docs/ARTWORK.md)
 - [LinkedIn explainer](media/linkedin-explainer.md)
 - [Compendium template](templates/compendium.md), [campaign journal](templates/campaign-journal.md), and [playtest feedback](templates/playtest-feedback.md)
 - [Development roadmap](docs/ROADMAP.md), [validation status](docs/VALIDATION.md), and [change history](CHANGELOG.md)
@@ -50,7 +50,7 @@ The compendium separates a device’s physical or fictional basis, its campaign 
 
 The proposed familiar privacy boundary requires host-enforced authorization. For the paper playtest, a human referee manages separate handouts. A shared chat containing secrets cannot provide isolated familiar knowledge merely by changing personalities.
 
-![Adventurers working together at a technical workshop](images/adventurers-workshop.png)
+![Adventurers working together at a technical workshop](Moonlit%20workshop%20of%20wonders-2.png)
 
 ## Feedback
 
