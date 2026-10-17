@@ -36,4 +36,4 @@ Adventurers examine a floating platform above a ravine beneath a dragon-filled s
 
 [Open uploaded JPEG](../Uzst0.jpg)
 
-The [artwork manifest](../media/artwork-manifest.json) records the filenames, sizes, and hashes of these four published files.
+The links above open the four files uploaded for this public snapshot.
