@@ -1,0 +1,76 @@
+{
+  "project": "U.I. Worlds — The Adventurer’s Forge",
+  "rules_version": "0.3",
+  "images": [
+    {
+      "path": "images/ui-worlds-cover.png",
+      "title": "U.I. Worlds cover",
+      "role": "Game concept art",
+      "caption": "AI-generated fantasy cover: adventurers, their companions, and an inventive world above a ravine.",
+      "source_filename": "exec-114e759f-1497-4252-a549-a0221e63518b.png",
+      "bytes": 3385834,
+      "sha256": "22cbd8c2ae01238b7d71d6ed4a8bb0690b0f7efd4c021e00007af8cc4ea9ea6c",
+      "git_blob_sha": "97dbdfc97519f7db18bb45465b4baed3e68b1da3"
+    },
+    {
+      "path": "images/adventurers-workshop.png",
+      "title": "The adventurers’ workshop",
+      "role": "Game concept art",
+      "caption": "AI-generated workshop scene illustrating collaborative invention, technical records, and a shared adventure.",
+      "source_filename": "exec-05dae8d0-363d-4050-8fee-f07e87f81c5d.png",
+      "bytes": 3109646,
+      "sha256": "bca34241cdb7eed394c0f9536cdc38f877a68ea48ddbc4ada76dce89e38cc1a6",
+      "git_blob_sha": "5ffcaf8eef979c69194039ba59131c3d647297c9"
+    },
+    {
+      "path": "images/inspiration/armoured-inventor.png",
+      "title": "Armoured inventor",
+      "role": "Origin-discussion illustration",
+      "caption": "Fictional armoured inventor study from the flight discussion that preceded the game concept. An illustration, not an equipment demonstration.",
+      "source_filename": "exec-9bc89a77-80dc-4ed3-9c58-a14beadbcfa4.png",
+      "bytes": 2487332,
+      "sha256": "04ff02c36b9b3163910ae20798719638f87ff97e0d07ecb8be2874d76b973dcf",
+      "git_blob_sha": "baeb06620422ed05a4a32279c6b3c52189a920b7"
+    },
+    {
+      "path": "images/inspiration/hover-vehicle-concept.png",
+      "title": "Hover vehicle concept",
+      "role": "Supplied legacy concept board",
+      "caption": "Earlier vehicle-scale hover illustration. Its depicted performance is not established by this project or adopted as a Skybridge parameter.",
+      "source_filename": "ChatGPT Image Aug 24, 2026, 07_10_30 PM(1).png",
+      "bytes": 3563267,
+      "sha256": "a9aef6b74acf510812ed5a71df076cc59fb6929d0b430e73f0ac3793146fe234",
+      "git_blob_sha": "fd192301a0d9d2c5a946ce27ef1b31a07bd42524"
+    },
+    {
+      "path": "images/inspiration/skipjack-lift-plate-concept.png",
+      "title": "Skipjack lift plate concept",
+      "role": "Supplied legacy concept board",
+      "caption": "Earlier lift-plate concept and visual architecture. Embedded specifications are historical concept annotations, not validated ratings or current game rules.",
+      "source_filename": "ChatGPT Image Aug 24, 2026, 07_19_07 PM.png",
+      "bytes": 3312441,
+      "sha256": "5fb01c912f2986e50770866b44e2c213d7f8b22e9e36e5ff19843464e39c79d6",
+      "git_blob_sha": "a548c312fa4ce106f3774eb943cbaab3e1d8366c"
+    },
+    {
+      "path": "images/inspiration/strix-rev-e-test-boundary.png",
+      "title": "X-07 STRIX Rev E",
+      "role": "Supplied legacy review board",
+      "caption": "Earlier Court-response board emphasizing a bounded experiment and measurement. It does not record an experiment performed by this repository.",
+      "source_filename": "ChatGPT Image Aug 24, 2026, 07_36_45 PM(1).png",
+      "bytes": 3159544,
+      "sha256": "442e592082aeeb597c855c1b792d49f0f8d10a923cb2f53e9484fb011b740cc6",
+      "git_blob_sha": "9719ae6b3fd0bb9bc46c38b30f28df70c28b768c"
+    },
+    {
+      "path": "images/inspiration/segmented-ead-cascade-grid.png",
+      "title": "Segmented EAD cascade grid",
+      "role": "Supplied legacy concept board",
+      "caption": "Earlier cascade-grid research illustration. The board is background inspiration; device viability and numerical annotations are not independently established here.",
+      "source_filename": "ChatGPT Image Aug 25, 2026, 12_53_23 AM.png",
+      "bytes": 2972150,
+      "sha256": "214912f129564bd4f32594fd38a3903090fa8768da5999f007229e2e6c291138",
+      "git_blob_sha": "357d7387a9270b366b2173d6756d6a031a32e1d2"
+    }
+  ]
+}
